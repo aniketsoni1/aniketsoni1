@@ -1,7 +1,6 @@
 # Hi, I am Aniket 👋👨‍💻 💻
 
 ## Connect with me 🌎:
-- <a href="aniket271993@gmail.com">Gmail</a> ✍🏾
 - <a href="https://www.linkedin.com/in/aniketsoni/">LinkedIn</a> 💼
 <!--
 **aniketsoni1/aniketsoni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
