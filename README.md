@@ -1,10 +1,11 @@
-# Hi, I am Aniket 👋👨‍💻 💻
+# Hi, I am Aniket 👋👨‍💻 
 
 ## Connect with me 🌎:
 - #### Mail me at aniket271993@gmail.com 📫
-- #### LinkedIn: [![Linkedin: AniketSoni](https://img.shields.io/badge/-AniketSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniketsoni/)](https://www.linkedin.com/in/aniketsoni/)
-- #### Follow me on [![GitHub Aniket Soni](https://img.shields.io/github/followers/aniketsoni1?label=follow&style=social)](https://github.com/aniketsoni1)     [![Twitter: Aniket Soni](https://img.shields.io/twitter/follow/aniketsoni?style=social)](https://twitter.com/aniketsoni)
-- #### Buy me a Coffee: [![Buy me a Coffee: AniketSoni](https://img.shields.io/badge/☕-BuyMeACoffee-blue?style=flat-square&logo=☕&link=https://paypal.me/AniketSoni)](https://paypal.me/AniketSoni)
+- #### [![Linkedin: AniketSoni](https://img.shields.io/badge/-AniketSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniketsoni/)](https://www.linkedin.com/in/aniketsoni/)
+- #### [![GitHub Aniket Soni](https://img.shields.io/github/followers/aniketsoni1?label=follow&style=social)](https://github.com/aniketsoni1)
+- #### [![Buy me a_Coffee: AniketSoni](https://img.shields.io/badge/-☕_Buy_me_Coffee-blue?style=flat-square&logo=☕&logoColor=white&link=https://paypal.me/AniketSoni)](https://paypal.me/AniketSoni)
+- #### [![Twitter: Aniket Soni](https://img.shields.io/twitter/follow/aniketsoni?style=social)](https://twitter.com/aniketsoni)
 
 
 <!--
