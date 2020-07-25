@@ -1,8 +1,12 @@
 # Hi, I am Aniket 👋👨‍💻 💻
 
 ## Connect with me 🌎:
-- <a href="https://www.linkedin.com/in/aniketsoni/">LinkedIn</a> 💼
-- <a href="https://paypal.me/AniketSoni">Buy me a Coffee</a> ☕
+- #### Mail me at aniket271993@gmail.com 📫
+- #### LinkedIn: [![Linkedin: AniketSoni](https://img.shields.io/badge/-AniketSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniketsoni/)](https://www.linkedin.com/in/aniketsoni/)
+- #### Follow me on [![GitHub Aniket Soni](https://img.shields.io/github/followers/aniketsoni1?label=follow&style=social)](https://github.com/aniketsoni1)     [![Twitter: Aniket Soni](https://img.shields.io/twitter/follow/aniketsoni?style=social)](https://twitter.com/aniketsoni)
+- #### Buy me a Coffee: [![Buy me a Coffee: AniketSoni](https://img.shields.io/badge/☕-BuyMeACoffee-blue?style=flat-square&logo=☕&link=https://paypal.me/AniketSoni)](https://paypal.me/AniketSoni)
+
+
 <!--
 **aniketsoni1/aniketsoni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
