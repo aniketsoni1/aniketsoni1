@@ -2,6 +2,7 @@
 
 ## Connect with me 🌎:
 - <a href="https://www.linkedin.com/in/aniketsoni/">LinkedIn</a> 💼
+- <a href="https://paypal.me/AniketSoni">Buy me a Coffee</a> ☕
 <!--
 **aniketsoni1/aniketsoni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
