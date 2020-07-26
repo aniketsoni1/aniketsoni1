@@ -2,7 +2,7 @@
 - ### I am a Full Stack Software Engineer with a lot of projects in Python, Django, JavaScript, SQL and Data analysis using Pandas, NumPy. I recently graduated in May 2020 with my Masters in Computer Science from <a href="https://web.saumag.edu/">Southern Arkansas University</a> and have a BS in Computer Science.
 
 ## Connect with me 🌎:
-- #### Mail me at aniket271993@gmail.com 📫
+- #### [![Email: mailto:aniket271993@gmail.com](https://img.shields.io/badge/-📫_Email_me_here-grey?style=flat-square&logo=📫&logoColor=white&link=mailto:aniket271993@gmail.com)](mailto:aniket271993@gmail.com)
 - #### [![Resume: AniketSoni](https://img.shields.io/badge/-📄_Resume:_Aniket_Soni-grey?style=flat-square&logo=📄&logoColor=white&link=https://bit.ly/2OSIu0C)](https://bit.ly/2OSIu0C)
 - #### [![Linkedin: AniketSoni](https://img.shields.io/badge/-AniketSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniketsoni/)](https://www.linkedin.com/in/aniketsoni/)
 - #### [![GitHub Aniket Soni](https://img.shields.io/github/followers/aniketsoni1?label=Follow&style=social)](https://github.com/aniketsoni1)
