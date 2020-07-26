@@ -6,7 +6,7 @@
 - #### [![GitHub Aniket Soni](https://img.shields.io/github/followers/aniketsoni1?label=follow&style=social)](https://github.com/aniketsoni1)
 - #### [![Buy me a_Coffee: AniketSoni](https://img.shields.io/badge/-☕_Buy_me_Coffee-blue?style=flat-square&logo=☕&logoColor=white&link=https://paypal.me/AniketSoni)](https://paypal.me/AniketSoni)
 - #### [![Twitter: Aniket Soni](https://img.shields.io/twitter/follow/aniketsoni?style=social)](https://twitter.com/aniketsoni)
-
+- #### [![Merit Pages: AniketSoni](https://img.shields.io/badge/-🎓_Merit_Pages_@AniketSoni-blue?style=flat-square&logo=☕&logoColor=white&link=https://meritpages.com/aniketsoni)](https://meritpages.com/aniketsoni)
 
 <!--
 **aniketsoni1/aniketsoni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
