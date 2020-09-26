@@ -1,5 +1,5 @@
 # Hi, I am <a href="https://www.linkedin.com/in/aniketsoni/">Aniket Soni</a> 👋👨‍💻 
-- ### I am a Full Stack Software Engineer with a lot of projects in Python, Django, JavaScript, SQL and Data analysis using Pandas, NumPy. I recently graduated in May 2020 with my Masters in Computer Science from <a href="https://web.saumag.edu/">Southern Arkansas University</a> and have a BS in Computer Science.
+- ### I am a Full Stack Software Engineer with a lot of projects in Python, Django, JavaScript, SQL and Data analysis using Pandas, NumPy. I recently graduated in May 2020 with my Masters in Computer Science from <a href="https://web.saumag.edu/">Southern Arkansas University</a>.
 
 <h2>
 Connect with me<img src="https://github.com/aniketsoni1/aniketsoni1/blob/master/Assets/Handshake.gif" height="32px">
