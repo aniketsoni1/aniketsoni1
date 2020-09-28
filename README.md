@@ -14,8 +14,8 @@ Connect with me<img src="https://github.com/aniketsoni1/aniketsoni1/blob/master/
 [![GitHub Aniket Soni](https://img.shields.io/github/followers/aniketsoni1?label=Follow&style=social)](https://github.com/aniketsoni1)
 [![Twitter: Aniket Soni](https://img.shields.io/twitter/follow/aniketsoni?style=social)](https://twitter.com/aniketsoni)
 <br>
-<a href="https://www.hackerrank.com/aniket271993" target="_blank"><img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?h=40w=160" alt="HackerRank" style="height: auto !important;width: auto !important;" ></a>
-<a href="https://www.buymeacoffee.com/aniketsoni" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.hackerrank.com/aniket271993" target="_blank"><img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?h=50w=170" alt="HackerRank" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/aniketsoni" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <br>[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!1EAEDB.svg)](https://saythanks.io/to/aniket271993@gmail.com)
 <br>
 **Visitors Count**  
