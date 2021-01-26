@@ -1,8 +1,3 @@
-# Hi, I am <a href="https://www.linkedin.com/in/aniketsoni/">Aniket Soni</a>
-### I am a Full Stack Software Engineer with a lot of projects in Python, Django, JavaScript, SQL and Data analysis using Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn, Plotly. I graduated in May 2020 with my <a href="https://drive.google.com/file/d/1SUfUHZKBFh8pA_VkGBJR1-GwzpC2YWOH/view?usp=sharing">Masters of Science in Computer Science</a> from <a href="https://web.saumag.edu/">Southern Arkansas University</a>.
-
-#### I am currently working as a Data Scientist at <a href="http://climatechangexplorers.org/">Climate Change Xplorers</a> on modeling, data analysis and visualization of IoT data to predict spatial kernel density. Along with machine learning, I have interest in software engineering and love solving complex problems. I am actively seeking new opportunities at the moment. Please feel free to reach out to me.
-
 <!--
 **aniketsoni1/aniketsoni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
